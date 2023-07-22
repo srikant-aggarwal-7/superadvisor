@@ -82,3 +82,5 @@ The repository implements a node.js service for SuperAdvisor's interview exercis
 Use `npm run build` to build the code and generate corresponding js files. Once corresponding js code is generated, one can use `npm run start` to start the server which is hosted at `http://localhost:6000`.
 
 For the purpose of this exercise, we have created a **MongoDB Atlas Database**. Collection **superAdvisor.events** is used to persist the data.
+
+Postman Collection to test the API is at: https://cloudy-space-495758.postman.co/workspace/New-Team-Workspace~9b9c1e1d-c43e-4220-9de5-90bc0437c44f/collection/28678487-27071e71-5942-4cff-abf1-982c9dd91aa2?action=share&creator=28678487
